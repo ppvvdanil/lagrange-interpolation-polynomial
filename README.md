@@ -1,10 +1,14 @@
-# Lagrange interpolation polynomial
- 
-The algorithm was developed for the purposes of the educational process. It implements the ability to enter :
-1. The number of nodes of the function
-2. Coordinates of the node
-3. Node values
+# Расчет интерполяционного полинома Лагранжа
 
-The algorithm builds a formula depending on the entered X and outputs the result of the calculation using the formula
+## Приложение разработано с помощью:
+- [`JavaScript`](https://ecma-international.org/publications-and-standards/standards/ecma-262/ "`JavaScript`")
 
-https://spmoska.github.io/lagrange-interpolation-polynomial/
+## Начало
+Чтобы запустить прокект локально:
+
+- Склонировать репозиторий
+- Открыть index.html
+
+## Демонстрация
+Приложение запущено на GitHub Pages <br>
+Ссылка: https://ppvvdanil.github.io/lagrange-interpolation-polynomial/
